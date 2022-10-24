@@ -1,11 +1,11 @@
 sensor_kit_base_link:
   camera0/camera_link:
-    x: 0.10731
-    y: 0.56343
-    z: -0.27697
-    roll: -0.025
-    pitch: 0.315
-    yaw: 1.035
+    x: 3.56411
+    y: -0.1393
+    z: -0.61897
+    roll: -0.0291
+    pitch: -1.680
+    yaw: -1.660
   camera1/camera_link:
     x: -0.10731
     y: -0.56343
@@ -58,28 +58,28 @@ sensor_kit_base_link:
   velodyne_top_base_link:
     x: 0.0
     y: 0.0
-    z: 0.0
+    z: 2.0
     roll: 0.0
     pitch: 0.0
-    yaw: 1.575
+    yaw: 0.0
   velodyne_left_base_link:
     x: 0.0
-    y: 0.56362
-    z: -0.30555
-    roll: -0.02
-    pitch: 0.71
-    yaw: 1.575
+    y: 0.0
+    z: 2.0
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
   velodyne_right_base_link:
     x: 0.0
-    y: -0.56362
-    z: -0.30555
-    roll: -0.01
-    pitch: 0.71
-    yaw: -1.580
+    y: 0.0
+    z: 2.0
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
   gnss_link:
     x: -0.1
     y: 0.0
-    z: -0.2
+    z: 2.0
     roll: 0.0
     pitch: 0.0
     yaw: 0.0
